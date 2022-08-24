@@ -1,2 +1,3 @@
-images/
-converted/
+images/*
+converted/*
+.DS_Store
